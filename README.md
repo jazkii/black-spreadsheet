@@ -26,7 +26,7 @@ $ cmake .. -Wno-dev -DCMAKE_BUILD_TYPE=Debug -G Ninja -DWITH_LIBCXX=Off
 $ ninja
 ```
 
-#### Windows, 
+#### Windows, Visual Studio 2017 
 Building:
 
 ``` sh
