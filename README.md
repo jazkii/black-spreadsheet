@@ -8,7 +8,7 @@ Spreadsheet is a spreadsheet engine(similar to Google Spreadsheet and Microsoft 
 
 The spreadsheet interface is described by the ```ISheet``` class from  `common.h`.
 
-Spreadsheet uses [ANTLR4](https://www.antlr.org/) to Parse a cell formula.
+Spreadsheet uses [ANTLR4](https://www.antlr.org/) to parse a cell formula.
 
 ## Installation
 
